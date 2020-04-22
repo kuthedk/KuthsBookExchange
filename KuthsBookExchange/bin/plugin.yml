@@ -1,0 +1,7 @@
+main: com.Synyparxi.KuthsBookExchange.Main
+name: KuthsBookExchange
+version: 1.0
+author: Alex "Kuthedk" Moss
+
+commands:
+  kbx:
